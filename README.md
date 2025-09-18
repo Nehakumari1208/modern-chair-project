@@ -1,1 +1,1 @@
-# modern-chair-project
+# Modern Chair Project
